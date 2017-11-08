@@ -1,0 +1,17 @@
+Criar repositório local
+* Ir na pasta base do projeto
+* Git Bash Here
+* Comando: git init
+* Criado!
+
+Importando para o Eclipse
+* Add local repository on Git Perspective
+* Add Git Repositories
+* Browse
+* 
+
+Vincular com GitHub
+* Criar repositório no GitHub
+* Fazer commit inicial no repositório local
+* Push to Upstream (Ao dar erro, fazer pull do readme)
+* Push again!
